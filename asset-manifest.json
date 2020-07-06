@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.65d57889.chunk.css",
-    "main.js": "/static/js/main.a0cf6a22.chunk.js",
-    "main.js.map": "/static/js/main.a0cf6a22.chunk.js.map",
+    "main.css": "/static/css/main.9edf6e8f.chunk.css",
+    "main.js": "/static/js/main.87d69c03.chunk.js",
+    "main.js.map": "/static/js/main.87d69c03.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.915d18ba.js",
     "runtime-main.js.map": "/static/js/runtime-main.915d18ba.js.map",
     "static/css/2.b697670c.chunk.css": "/static/css/2.b697670c.chunk.css",
-    "static/js/2.a6ccfdf2.chunk.js": "/static/js/2.a6ccfdf2.chunk.js",
-    "static/js/2.a6ccfdf2.chunk.js.map": "/static/js/2.a6ccfdf2.chunk.js.map",
+    "static/js/2.b952edf3.chunk.js": "/static/js/2.b952edf3.chunk.js",
+    "static/js/2.b952edf3.chunk.js.map": "/static/js/2.b952edf3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f7078c010336b6eec461f593bdb8a8f4.js": "/precache-manifest.f7078c010336b6eec461f593bdb8a8f4.js",
+    "precache-manifest.313504b732ca7f9502fbe838f7dadaab.js": "/precache-manifest.313504b732ca7f9502fbe838f7dadaab.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b697670c.chunk.css.map": "/static/css/2.b697670c.chunk.css.map",
-    "static/css/main.65d57889.chunk.css.map": "/static/css/main.65d57889.chunk.css.map",
-    "static/js/2.a6ccfdf2.chunk.js.LICENSE.txt": "/static/js/2.a6ccfdf2.chunk.js.LICENSE.txt",
-    "static/media/landingstyle.css": "/static/media/pricing.45e5fa67.png",
+    "static/css/main.9edf6e8f.chunk.css.map": "/static/css/main.9edf6e8f.chunk.css.map",
+    "static/js/2.b952edf3.chunk.js.LICENSE.txt": "/static/js/2.b952edf3.chunk.js.LICENSE.txt",
     "static/media/backarrow.png": "/static/media/backarrow.87a66506.png",
     "static/media/browsecourses.png": "/static/media/browsecourses.2dd33c45.png",
     "static/media/browsecourses.svg": "/static/media/browsecourses.f8a0f5ac.svg",
@@ -25,6 +24,7 @@
     "static/media/courseediting.png": "/static/media/courseediting.f92eff22.png",
     "static/media/desktop.svg": "/static/media/desktop.d0d02a91.svg",
     "static/media/error.svg": "/static/media/error.48cf8e62.svg",
+    "static/media/landingstyle.css": "/static/media/esketit.624139b1.png",
     "static/media/fish1.svg": "/static/media/fish1.c440a753.svg",
     "static/media/fish2.svg": "/static/media/fish2.6de7ac05.svg",
     "static/media/gdrivedoc1.png": "/static/media/gdrivedoc1.e7841919.png",
@@ -40,6 +40,8 @@
     "static/media/icon3.png": "/static/media/icon3.748054b6.png",
     "static/media/icon4.png": "/static/media/icon4.d6a0c005.png",
     "static/media/incomplete.svg": "/static/media/incomplete.394a05d2.svg",
+    "static/media/koincourses.png": "/static/media/koincourses.a9b9a37e.png",
+    "static/media/koindiscord.png": "/static/media/koindiscord.f7b5da18.png",
     "static/media/koinlogo.png": "/static/media/koinlogo.75ed0751.png",
     "static/media/lightbulb.svg": "/static/media/lightbulb.59ac41d3.svg",
     "static/media/ma.png": "/static/media/ma.ae7c487d.png",
@@ -62,8 +64,8 @@
   "entrypoints": [
     "static/js/runtime-main.915d18ba.js",
     "static/css/2.b697670c.chunk.css",
-    "static/js/2.a6ccfdf2.chunk.js",
-    "static/css/main.65d57889.chunk.css",
-    "static/js/main.a0cf6a22.chunk.js"
+    "static/js/2.b952edf3.chunk.js",
+    "static/css/main.9edf6e8f.chunk.css",
+    "static/js/main.87d69c03.chunk.js"
   ]
 }
