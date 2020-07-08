@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2e5d38d.chunk.css",
-    "main.js": "/static/js/main.3c3f11a4.chunk.js",
-    "main.js.map": "/static/js/main.3c3f11a4.chunk.js.map",
+    "main.css": "/static/css/main.c9d76494.chunk.css",
+    "main.js": "/static/js/main.e409066b.chunk.js",
+    "main.js.map": "/static/js/main.e409066b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.915d18ba.js",
     "runtime-main.js.map": "/static/js/runtime-main.915d18ba.js.map",
     "static/css/2.b697670c.chunk.css": "/static/css/2.b697670c.chunk.css",
     "static/js/2.e195c53d.chunk.js": "/static/js/2.e195c53d.chunk.js",
     "static/js/2.e195c53d.chunk.js.map": "/static/js/2.e195c53d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a453867746ac21cebf22d320f8776162.js": "/precache-manifest.a453867746ac21cebf22d320f8776162.js",
+    "precache-manifest.e36a544680633957eaa034739e1059a5.js": "/precache-manifest.e36a544680633957eaa034739e1059a5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b697670c.chunk.css.map": "/static/css/2.b697670c.chunk.css.map",
-    "static/css/main.e2e5d38d.chunk.css.map": "/static/css/main.e2e5d38d.chunk.css.map",
+    "static/css/main.c9d76494.chunk.css.map": "/static/css/main.c9d76494.chunk.css.map",
     "static/js/2.e195c53d.chunk.js.LICENSE.txt": "/static/js/2.e195c53d.chunk.js.LICENSE.txt",
     "static/media/backarrow.png": "/static/media/backarrow.87a66506.png",
     "static/media/browsecourses.png": "/static/media/browsecourses.2dd33c45.png",
@@ -41,13 +41,13 @@
     "static/media/icon3.png": "/static/media/icon3.748054b6.png",
     "static/media/icon4.png": "/static/media/icon4.d6a0c005.png",
     "static/media/incomplete.svg": "/static/media/incomplete.394a05d2.svg",
-    "static/media/koincourses.png": "/static/media/koincourses.a9b9a37e.png",
     "static/media/koindiscord.png": "/static/media/koindiscord.f7b5da18.png",
     "static/media/koinlogo.png": "/static/media/koinlogo.75ed0751.png",
     "static/media/lightbulb.svg": "/static/media/lightbulb.59ac41d3.svg",
     "static/media/ma.png": "/static/media/ma.ae7c487d.png",
     "static/media/managestudents.png": "/static/media/managestudents.979c2a84.png",
     "static/media/menu.svg": "/static/media/menu.1fd62136.svg",
+    "static/media/newscreenshot.png": "/static/media/newscreenshot.f4f767e7.png",
     "static/media/newtab.svg": "/static/media/newtab.92895a5f.svg",
     "static/media/rotatedevice.png": "/static/media/rotatedevice.23256e34.png",
     "static/media/student.gif": "/static/media/student.b122dea1.gif",
@@ -65,7 +65,7 @@
     "static/js/runtime-main.915d18ba.js",
     "static/css/2.b697670c.chunk.css",
     "static/js/2.e195c53d.chunk.js",
-    "static/css/main.e2e5d38d.chunk.css",
-    "static/js/main.3c3f11a4.chunk.js"
+    "static/css/main.c9d76494.chunk.css",
+    "static/js/main.e409066b.chunk.js"
   ]
 }
