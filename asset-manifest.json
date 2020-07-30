@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.013eb3a3.chunk.css",
-    "main.js": "/static/js/main.e07df654.chunk.js",
-    "main.js.map": "/static/js/main.e07df654.chunk.js.map",
+    "main.css": "/static/css/main.51591f22.chunk.css",
+    "main.js": "/static/js/main.dc24b1c3.chunk.js",
+    "main.js.map": "/static/js/main.dc24b1c3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.915d18ba.js",
     "runtime-main.js.map": "/static/js/runtime-main.915d18ba.js.map",
     "static/css/2.b697670c.chunk.css": "/static/css/2.b697670c.chunk.css",
-    "static/js/2.707cba36.chunk.js": "/static/js/2.707cba36.chunk.js",
-    "static/js/2.707cba36.chunk.js.map": "/static/js/2.707cba36.chunk.js.map",
+    "static/js/2.c54101fd.chunk.js": "/static/js/2.c54101fd.chunk.js",
+    "static/js/2.c54101fd.chunk.js.map": "/static/js/2.c54101fd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.128d7591cc65820a68ed2dab8bb22c1e.js": "/precache-manifest.128d7591cc65820a68ed2dab8bb22c1e.js",
+    "precache-manifest.6bdf7f1da0d47206d65dc3d3519b67ab.js": "/precache-manifest.6bdf7f1da0d47206d65dc3d3519b67ab.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b697670c.chunk.css.map": "/static/css/2.b697670c.chunk.css.map",
-    "static/css/main.013eb3a3.chunk.css.map": "/static/css/main.013eb3a3.chunk.css.map",
-    "static/js/2.707cba36.chunk.js.LICENSE.txt": "/static/js/2.707cba36.chunk.js.LICENSE.txt",
+    "static/css/main.51591f22.chunk.css.map": "/static/css/main.51591f22.chunk.css.map",
+    "static/js/2.c54101fd.chunk.js.LICENSE.txt": "/static/js/2.c54101fd.chunk.js.LICENSE.txt",
     "static/media/backarrow.png": "/static/media/backarrow.87a66506.png",
     "static/media/browsecourses.svg": "/static/media/browsecourses.f8a0f5ac.svg",
     "static/media/complete.svg": "/static/media/complete.c64cf79a.svg",
@@ -36,6 +36,11 @@
     "static/media/koingraphic1.png": "/static/media/koingraphic1.655bcc85.png",
     "static/media/koingraphic2.png": "/static/media/koingraphic2.b477452f.png",
     "static/media/koinlogo.png": "/static/media/koinlogo.75ed0751.png",
+    "static/media/koinpartner1.png": "/static/media/koinpartner1.2ff85a0e.png",
+    "static/media/koinpartner2.png": "/static/media/koinpartner2.53d9ffdd.png",
+    "static/media/koinpartner3.png": "/static/media/koinpartner3.b9a4e01e.png",
+    "static/media/koinpartner4.png": "/static/media/koinpartner4.204d78d6.png",
+    "static/media/koinpartner5.png": "/static/media/koinpartner5.77f1374e.png",
     "static/media/menu.svg": "/static/media/menu.1fd62136.svg",
     "static/media/newtab.svg": "/static/media/newtab.92895a5f.svg",
     "static/media/rotatedevice.png": "/static/media/rotatedevice.23256e34.png",
@@ -47,8 +52,8 @@
   "entrypoints": [
     "static/js/runtime-main.915d18ba.js",
     "static/css/2.b697670c.chunk.css",
-    "static/js/2.707cba36.chunk.js",
-    "static/css/main.013eb3a3.chunk.css",
-    "static/js/main.e07df654.chunk.js"
+    "static/js/2.c54101fd.chunk.js",
+    "static/css/main.51591f22.chunk.css",
+    "static/js/main.dc24b1c3.chunk.js"
   ]
 }
