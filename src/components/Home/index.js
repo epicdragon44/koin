@@ -5013,11 +5013,11 @@ class Container extends React.Component {
         var mainpanel;
         if (this.state.mainPanelMode===0) {
             mainpanel = <MainPanel toggleHidden={this.toggleHidden} isTimeUp={this.isTimeUp} changeActiveCourse={this.changeActiveCourse} showTour={this.showTour} description={this.state.description} instantOpen={instantOpen} isMobile={this.props.isMobile} firebase={this.props.firebase} email={this.props.email} activeCourse={this.state.activeCourse} modules={this.getModules(this.state.activeCourse)} removeCourse={this.removeCourse} addVarkClicks={this.addVarkClicks}/>
-            if (this.isTimeUp()===true) {
-                // TODO: if(this.state.activeCourse=== the course code to block ) {
-                     mainpanel = <Paywall courseCode={this.state.activeCourse}/>;
-                //  }
-            }
+            // if (this.isTimeUp()===true) {
+            //     // TODO: if(this.state.activeCourse=== the course code to block ) {
+            //          mainpanel = <Paywall courseCode={this.state.activeCourse}/>;
+            //     //  }
+            // }
         } else if (this.state.mainPanelMode===1) {
             mainpanel = <AddCoursePanel currentCourses={this.state.arrCourses} addCourse={this.addCourse}/>
         } else if (this.state.mainPanelMode===2) {
