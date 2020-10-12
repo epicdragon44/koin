@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import { withAuthorization } from '../Session';
 import { Link } from 'react-router-dom';
-import Paywall from '../Paywall';
+// import Paywall from '../Paywall';
 import { Modal,ModalManager,Effect} from 'react-dynamic-modal';
 import { PieChart } from 'react-minimal-pie-chart';
 import * as ROUTES from '../../constants/routes';
